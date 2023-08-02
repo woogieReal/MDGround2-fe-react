@@ -1,0 +1,17 @@
+#MovableItem {
+  margin-bottom: 20px;
+}
+
+#MovableItem input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+#MovableItem .editForm {
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px dashed gray;
+}
+
+#MovableItem pre {
+  white-space: pre-wrap;
+}
